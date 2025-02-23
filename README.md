@@ -21,7 +21,11 @@ An aspiring frontend developer with a passion for creating delightful and user-f
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ADITHIYAN008" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> <source media="(prefers-color-scheme: light)" srcset="https://cdn-icons-png.flaticon.com/512/25/25231.png" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/adhi_akira" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Adithiyanr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+<a href="https://twitter.com/adithiyan02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithiyan02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adithiyanr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithiyanr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adithiyan_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adithiyan_r" height="30" width="40" /></a>
+</p>
 
 ### Badges
 
