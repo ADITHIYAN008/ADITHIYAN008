@@ -10,7 +10,7 @@ An aspiring frontend developer with a passion for creating delightful and user-f
 * ✉️  You can contact me at [adithiyanr2@gmail.com](mailto:adithiyanr2@gmail.com)
 * 🧠  I'm learning Backend Development
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Frontend coder by day, Aspiring ninja by night
+* ⚡  Frontend artist by day, Logic warrior by night
 
 ### Skills
 
